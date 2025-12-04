@@ -60,8 +60,6 @@ A fully self-driven cloud security lab where I:
 
 ## 🤝 Let's Connect
 - **Email:** kiranjoshy555@gmail.com  
-- **LinkedIn:** _Add your LinkedIn link here_  
-- **GitHub:** You’re already here!  
 
 ---
 
