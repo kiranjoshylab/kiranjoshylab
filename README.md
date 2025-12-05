@@ -15,7 +15,7 @@ I’m passionate about building secure, modern cloud environments, automating pr
 
 ---
 
-## 🚀 Featured Project: Modern Cloud Security & Management Lab
+##  Featured Project: Modern Cloud Security & Management Lab
 A fully self-driven cloud security lab where I:
 
 - Deployed a complete Microsoft 365 tenant with Cloudflare DNS  
@@ -29,11 +29,10 @@ A fully self-driven cloud security lab where I:
 
 **Tech Used:** Microsoft 365, Azure, Intune, Sentinel, Defender XDR, Terraform, Cloudflare, Zero Trust, GitHub Actions
 
-> 📌 Repository coming soon
 
 ---
 
-## 📚 Certifications & Training
+##  Certifications & Training
 - **Red Dome IT Upskilling Programme (2025)**  
   _Microsoft 365, Intune, Defender XDR, Sentinel, Terraform, Zero Trust_
 - **Google Foundations of Cybersecurity (2025)**  
@@ -42,7 +41,7 @@ A fully self-driven cloud security lab where I:
 
 ---
 
-## 📈 What I'm Learning Right Now
+##  What I'm Learning Right Now
 - Azure Fundamentals (AZ-900)
 - Python for automation
 - Cloud security best practices
@@ -50,7 +49,7 @@ A fully self-driven cloud security lab where I:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 **Cloud & Security:** Microsoft 365, Azure Sentinel, Defender XDR, Cloudflare Zero Trust  
 **Device Management:** Intune (Windows, macOS, Android)  
 **Automation:** Terraform, GitHub Actions  
@@ -58,12 +57,12 @@ A fully self-driven cloud security lab where I:
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 - **Email:** kiranjoshy555@gmail.com  
 
 ---
 
-### ⭐ I'm actively looking for trainee opportunities in:
+### I'm actively looking for trainee opportunities in:
 - Cloud Support  
 - IT Support  
 - Cybersecurity  
